@@ -24,6 +24,8 @@ Medical Analysis
 * 안구질환
 * 질병 진단
 
+* Isbi 2012 U-Net
+
 
 * 뇌파 분석
 * 정량화 뇌파 분석
