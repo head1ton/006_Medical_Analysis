@@ -22,9 +22,9 @@ Medical Analysis
 * 녹내장
 * 망막 정맥 폐쇄
 * 안구질환
-* 질병 진단
+* 질병 진단x
 
-* Isbi 2012 U-Net
+* ~~Isbi 2012 U-Net~~ (Completed)
 
 
 * 뇌파 분석
