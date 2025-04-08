@@ -3,7 +3,7 @@
 |-------------|------------------------------------------|
 | 백본(Encoder) | EfficientNetB0 (ImageNet pretrained)     |
 | 모델          | U-Net (segmentation_models)              |
-| 입력 크기       | (256, 256, 3)                            |
+| 입력 크기       | (512, 512, 3)                            |
 | 출력 채널       | 1(binary segmentation)                   |
 | 손실함수        | Dice + BCE loss 조합                       |
 | 메트릭         | IoU, Dice, Accuracy                      |
